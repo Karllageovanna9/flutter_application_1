@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "294526673912",
+    "firebase_url": "https://tarefas-karlla-2026-default-rtdb.firebaseio.com",
+    "project_id": "tarefas-karlla-2026",
+    "storage_bucket": "tarefas-karlla-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294526673912:android:0e3c00f4bc5b22053cac0d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWlbVEpYL1bXx0rdiP4xSSENgTHI-kic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
