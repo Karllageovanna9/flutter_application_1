@@ -110,15 +110,14 @@ Os temas são definidos utilizando ThemeData e ThemeMode.
 ## Capturas de tela
 
 ### Tela de login
-![Tela de login](screenshots/login.png)
+![Tela de login](lib/screenshots/login.png)
 
 ### Tela inicial
-![Tela inicial com resumo das tarefas](screenshots/inicio.png)
+![Tela de login](lib/screenshots/login.png)
 
 ### Listagem e detalhes das tarefas
-![Listagem e detalhes das tarefas](screenshots/tarefas.png)
+![Tarefas](lib/screenshots/tarefas.png)
 
 ### Configurações de tema
-![Configurações do tema](screenshots/configuracoes.png)
-
+![Configurações](lib/screenshots/configuracoes.png)
 Estudante de Engenharia de Software
